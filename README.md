@@ -27,3 +27,4 @@ Here are some of the badges I earn along the way!
 ![Heroku](https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Astro](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro)

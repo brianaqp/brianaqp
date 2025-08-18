@@ -13,4 +13,4 @@ I’m currently working on my DevOps skills, so I’ll mostly be updating these 
 
 Some usefull links to know more about myself:
 - [LinkedIn](https://www.linkedin.com/in/brian-armando/)
-- My website is on the road, please be patient.
+- [My website](https://d3age4nznpp8tv.cloudfront.net/index.html) 

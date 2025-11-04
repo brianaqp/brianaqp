@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**brianaqp/brianaqp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 I'm a Software Engineer with 3+YOE working in Node.js/Web Based Solutions.
+🌱 I’m currently working on learning Kubernetes and DevOps tooiling! I belive is the real automation.
+🇯🇵 Currently I'm learning Japanese! かっこい !!!
 
-Here are some ideas to get you started:
+Currently Tech Stack that I like to use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Typescript | Javascript | Golang 
+𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱: Angular | Vue.js 
+𝗗𝗲𝘀𝗸𝘁𝗼𝗽: Wails
+𝗕𝗮𝗰𝗸-𝗲𝗻𝗱: Node.js 
+𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MariaDB | MongoDB
+𝗗evOps: Docker | Kubernetes | Heroky | AWS
+
+📫 How to reach me: 
+- If you are a recruiter: [LinkedIn](https://www.linkedin.com/in/brian-armando)
+- If you want to work with me: [Upwork](https://www.upwork.com/freelancers/~01200dc1230c4331ab?mp_source=share)

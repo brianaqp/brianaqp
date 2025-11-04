@@ -6,12 +6,15 @@
 
 🇨🇭 My current Swiss Knife:
 
-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: Typescript | Javascript | Golang 
-𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱: Angular | Vue.js 
-𝗗𝗲𝘀𝗸𝘁𝗼𝗽: Wails
-𝗕𝗮𝗰𝗸-𝗲𝗻𝗱: Node.js 
-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MariaDB | MongoDB
-𝗗evOps: Docker | Kubernetes | Heroku | AWS
+```yaml
+tech_stack:
+  languages: [Typescript, Javascript, Golang]
+  frontend: [Angular, Vue.js]
+  desktop: [Wails]
+  backend: [Node.js]
+  databases: [MariaDB, MongoDB]
+  devops: [Docker, Kubernetes, Heroku, AWS]
+```
 
 📫 How to reach me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Recruiters-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brian-armando) <br>

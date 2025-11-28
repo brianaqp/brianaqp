@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-😄 I'm a Software Engineer with 3+YOE working in Node.js/Web Based Solutions.  
+😄 I'm a Software Engineer with 4+YOE working in Node.js/Web Based Solutions.  
 🌱 I’m currently working on learning Kubernetes and DevOps tooiling! It feels like real automation.  
 🇯🇵 Currently I'm learning Japanese! かっこい !!!
 
@@ -9,10 +9,10 @@
 ```yaml
 tech_stack:
   languages: [Typescript, Javascript, Golang]
-  frontend: [Angular, Vue.js]
+  frontend: [Angular, Vue.js, React]
   desktop: [Wails]
-  backend: [Node.js]
-  databases: [MariaDB, MongoDB]
+  backend: [Node.js, Golang]
+  databases: [PostgreSQL, MongoDB]
   devops: [Docker, Kubernetes, Heroku, AWS]
 ```
 

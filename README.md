@@ -6,7 +6,7 @@
 
 🇨🇭 My current Swiss Knife:
 
-\`\`\`yaml
+```yaml
 tech_stack:
   languages: [TypeScript, Python, Java, Go, JavaScript]
   frontend: [React, Next.js, Angular, Vue/Nuxt]
@@ -15,7 +15,7 @@ tech_stack:
   ai_agents: [MCP, FastMCP, Claude Code]
   databases: [PostgreSQL, MongoDB, SQLite]
   devops: [Docker, Kubernetes, OpenTofu/Terraform, AWS, GitHub Actions]
-\`\`\`
+```
 
 📫 How to reach me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Recruiters-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brian-armando) <br>

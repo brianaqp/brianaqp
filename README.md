@@ -1,20 +1,21 @@
 ## Hi there 👋  
 
-😄 I'm a Software Engineer with 4+YOE working in Node.js/Web Based Solutions.  
-🌱 I’m currently working on learning Kubernetes and DevOps tooiling! It feels like real automation.  
-🇯🇵 Currently I'm learning Japanese! かっこい !!!
+😄 I'm a Software Engineer with 5+ YOE building distributed systems and full-stack platforms.  
+🤖 I'm currently working with MCP servers and AI agent tooling — building agent-facing APIs with proper auth boundaries.  
+🇯🇵 Currently I'm learning Japanese! お疲れ !!!
 
 🇨🇭 My current Swiss Knife:
 
-```yaml
+\`\`\`yaml
 tech_stack:
-  languages: [Typescript, Javascript, Golang]
-  frontend: [Angular, Vue.js, React]
-  desktop: [Wails]
-  backend: [Node.js, Golang]
-  databases: [PostgreSQL, MongoDB]
-  devops: [Docker, Kubernetes, Heroku, AWS]
-```
+  languages: [TypeScript, Python, Java, Go, JavaScript]
+  frontend: [React, Next.js, Angular, Vue/Nuxt]
+  backend: [Spring Boot, FastAPI, Node.js, Django, GraphQL]
+  events: [Kafka, Confluent, Avro]
+  ai_agents: [MCP, FastMCP, Claude Code]
+  databases: [PostgreSQL, MongoDB, SQLite]
+  devops: [Docker, Kubernetes, OpenTofu/Terraform, AWS, GitHub Actions]
+\`\`\`
 
 📫 How to reach me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Recruiters-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brian-armando) <br>
